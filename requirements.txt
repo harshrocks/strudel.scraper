@@ -1,2 +1,4 @@
+We have to install the following modules to get going-
+Simply go into your terminal or command prompt and type-"pip install requests" and "pip install strudel" to install the respective modules.
 requests
 strudel.utils
